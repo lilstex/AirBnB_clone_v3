@@ -160,15 +160,15 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Emmanuel Chisom - [Github](https://github.com/lilstex) / [Twitter](https://twitter.com/lilstex4good)  
 Sonkay Conteh - [Github](https://github.com/SonkayAugustine) / [Twitter](https://twitter.com/SonkayZamani)  
 ### (Contribution)  
-*`Never fail unittests`
-*`Improve storage`
-*`Status of API`
-*`Create endpoints, get stats`
-*`404 error "Not found" design`
-*`Create new views`
-*`HTTP access control(CORS)`
-*`Security Improvements`
-*`Search`
+*`Never fail unittests`  
+*`Improve storage`  
+*`Status of API`  
+*`Create endpoints, get stats`  
+*`404 error "Not found" design`  
+*`Create new views`  
+*`HTTP access control(CORS)`  
+*`Security Improvements`  
+*`Search`  
 
 Second part of Airbnb: Joann Vuong
 ## License
